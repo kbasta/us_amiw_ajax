@@ -1,0 +1,14 @@
+body{
+    background-color: #8dcef8;
+    font-family: Helvetica;
+}
+
+#kontener{
+    text-align: center;
+}
+
+#kontener img#image{
+    width: 25%;
+    height: auto; 
+    margin-top: 35px;
+}
